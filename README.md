@@ -8,4 +8,4 @@ This repository contains practice scripts and examples for Python programming. T
 
 ## To Install requirements
 
-<!-- pip install -r requirements.txt -->
+pip install -r requirements.txt
